@@ -15,7 +15,7 @@ const IndexPage = () => {
         Hello there, welcome to my portfolio. I am a Software Developer
         that recently graduated from Williams College.
         </p>
-        <DownloadButton href="https://github.com/ethioeph/ethioeph.github.io/raw/master/Daniel_Resumé.pdf"  download title="Resume">Download Resume</DownloadButton>
+        <DownloadButton href="https://github.com/ethioeph/new_website/raw/master/Daniel_Resumé.pdf"  download title="Resume">Download Resume</DownloadButton>
       </div>
     </UserDescription>
     <UserTopic>
