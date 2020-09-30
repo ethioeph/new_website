@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-
+import firestone from "../../assets/images/firestone.gif";
 const Box = styled.div`
   max-width: 450px;
   width: 35%;
@@ -99,7 +99,7 @@ const ProjectBox = ({ info }) => (
         {info.href_2 ? <a href={info.href_2}>View Paper 2</a> : null}
         {info.slides ? <a href={info.slides}>View Slides</a> : null}
         {info.wiki ? <a href={info.wiki}>View Wiki Page</a> : null}
-
+        {info.gif ? <img src={firestone} alt="firestone" /> : null}
         <p>Development year - {info.year} </p>
         <p>Technology stack - {info.techUsed} </p>
       </BoxStack>

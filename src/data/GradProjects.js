@@ -31,6 +31,18 @@ export default [
   },
   {
     id: 3,
+    title: "Firestone",
+    icon: null,
+    description:
+      "A clone of the popular online game called Hearthstone, built in Clojure.",
+    githubPath: null,
+    demoPath: null,
+    year: "2019",
+    techUsed: "HTML, CSS, and Javascript",
+    gif: "../../assets/firestone.gif",
+  },
+  {
+    id: 4,
     title: "Masterplan",
     icon: null,
     description:
@@ -41,7 +53,7 @@ export default [
     techUsed: "HTML, CSS, and Javascript",
   },
   {
-    id: 4,
+    id: 5,
     title: "Brain Fuse",
     description:
       'An implementation of a simple turing complete programming language colloquially known as "brainf**k" that uses just 7 instructions to simulate any program.',
@@ -53,7 +65,7 @@ export default [
     techUsed: "C",
   },
   {
-    id: 5,
+    id: 6,
     title: "Parallel Spatio-Temporal Clustering",
     description:
       "Used the OpenMP parallel programming framework to implement a fast Spatio-Temporal clustering algorithm and presented the associated poster during summer research presentations.",
