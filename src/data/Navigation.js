@@ -1,18 +1,22 @@
 export default [
   {
-    label: 'About',
-    path: '/',
+    label: "About",
+    path: "/",
   },
   {
-    label: 'Experience',
-    path: '/experience',
+    label: "Experience",
+    path: "/experience",
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: "Projects",
+    path: "/projects",
   },
   {
-    label: 'Contact',
-    path: '/contact',
+    label: "Activities",
+    path: "/activities",
   },
-]
+  {
+    label: "Contact",
+    path: "/contact",
+  },
+];

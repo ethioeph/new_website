@@ -5,11 +5,12 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/.cache/dev-404-page.js"))),
-  "component---src-pages-404-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/src/pages/404.js"))),
-  "component---src-pages-contact-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/src/pages/contact.js"))),
-  "component---src-pages-experience-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/src/pages/experience.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/src/pages/index.js"))),
-  "component---src-pages-projects-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/ethioeph.github.io/src/pages/projects.js")))
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/.cache/dev-404-page.js"))),
+  "component---src-pages-404-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/404.js"))),
+  "component---src-pages-contact-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/contact.js"))),
+  "component---src-pages-experience-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/experience.js"))),
+  "component---src-pages-index-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/index.js"))),
+  "component---src-pages-projects-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/projects.js"))),
+  "component---src-pages-activities-js": hot(preferDefault(require("/Users/danielwoldegiorgis/Downloads/personal-website/new_website/src/pages/activities.js")))
 }
 
